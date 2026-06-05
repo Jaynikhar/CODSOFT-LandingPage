@@ -20,7 +20,7 @@ A modern and responsive landing page created using HTML and CSS. This project de
 landing-page/
 │── index.html  
 │── style.css  
-│── assets/screenshot.png  
+
 
 ## 👨‍💻 Author
 Jay Nikhar
